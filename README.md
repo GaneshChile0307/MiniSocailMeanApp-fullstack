@@ -1,0 +1,1 @@
+MEAN stack prod snapshot application with Fronetend deployed in Amazon S3 bucket as static web app and backend node.js server on AWS elastic beanstalk with EC2 instances
